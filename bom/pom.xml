@@ -83,57 +83,57 @@
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-security</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-security-webmvc</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-webmvc</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-boot-starter</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-webmvc-spring-boot-starter</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-thymeleaf-spring-boot-starter</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-security-spring-boot-starter</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-security-webmvc-spring-boot-starter</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-default-spring-boot-starter</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-zuul-spring-cloud-starter</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>

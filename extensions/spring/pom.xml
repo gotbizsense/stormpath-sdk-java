@@ -25,7 +25,7 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <groupId>com.stormpath.spring</groupId>
+    <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
     <artifactId>stormpath-spring-parent</artifactId>
     <name>Stormpath :: Spring</name>
     <description>Support for using Stormpath in Spring applications.</description>

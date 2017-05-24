@@ -19,7 +19,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.stormpath.spring</groupId>
+        <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
         <artifactId>stormpath-spring-parent</artifactId>
         <version>2.0.1-okta-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>

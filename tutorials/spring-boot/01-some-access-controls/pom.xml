@@ -25,7 +25,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <groupId>com.stormpath.spring</groupId>
+    <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
     <artifactId>stormpath-sdk-tutorials-spring-boot-default-some-access-controls</artifactId>
     <version>2.0.1-okta-SNAPSHOT</version>
 
@@ -42,7 +42,7 @@
     <dependencies>
         <!-- Compile-time dependencies: -->
         <dependency>
-            <groupId>com.stormpath.spring</groupId>
+            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
             <artifactId>stormpath-default-spring-boot-starter</artifactId>
             <version>${project.version}</version>
         </dependency>

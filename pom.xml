@@ -207,7 +207,7 @@
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring</artifactId>
                 <version>${project.version}</version>
             </dependency>
@@ -216,59 +216,59 @@
                 Known issue since 2005. http://jira.codehaus.org/browse/MNG-1378
             -->
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring</artifactId>
                 <version>${project.version}</version>
                 <type>test-jar</type>
                 <scope>test</scope>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-security</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-security-webmvc</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-webmvc</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-boot-starter</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-webmvc-spring-boot-starter</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-thymeleaf-spring-boot-starter</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-security-spring-boot-starter</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-spring-security-webmvc-spring-boot-starter</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-default-spring-boot-starter</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.spring</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-zuul-spring-cloud-starter</artifactId>
                 <version>${project.version}</version>
             </dependency>
