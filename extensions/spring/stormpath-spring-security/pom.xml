@@ -40,7 +40,7 @@
             <artifactId>spring-security-config</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.stormpath.sdk</groupId>
+            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-httpclient</artifactId>
             <scope>runtime</scope>
         </dependency>

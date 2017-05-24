@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.stormpath.sdk</groupId>
+    <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
     <artifactId>stormpath-bom</artifactId>
     <name>Stormpath Java SDK :: BOM</name>
     <description>Stormpath Bill of Materials</description>
@@ -48,37 +48,37 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>com.stormpath.sdk</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-sdk-api</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.sdk</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-sdk-impl</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.sdk</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-sdk-oauth</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.sdk</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-sdk-servlet</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.sdk</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-sdk-httpclient</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.sdk</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-servlet-plugin</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.stormpath.sdk</groupId>
+                <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
                 <artifactId>stormpath-sdk-zuul</artifactId>
                 <version>2.0.1-okta-SNAPSHOT</version>
             </dependency>

@@ -30,15 +30,15 @@
     <dependencies>
 
         <dependency>
-            <groupId>com.stormpath.sdk</groupId>
+            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-api</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.stormpath.sdk</groupId>
+            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-impl</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.stormpath.sdk</groupId>
+            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-servlet</artifactId>
         </dependency>
         <dependency>
@@ -46,7 +46,7 @@
             <artifactId>stormpath-spring-webmvc</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.stormpath.sdk</groupId>
+            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-httpclient</artifactId>
             <scope>runtime</scope>
         </dependency>

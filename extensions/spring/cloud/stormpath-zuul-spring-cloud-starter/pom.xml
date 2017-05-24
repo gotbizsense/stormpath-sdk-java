@@ -37,7 +37,7 @@
             <artifactId>stormpath-default-spring-boot-starter</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.stormpath.sdk</groupId>
+            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-zuul</artifactId>
         </dependency>
         <dependency>
