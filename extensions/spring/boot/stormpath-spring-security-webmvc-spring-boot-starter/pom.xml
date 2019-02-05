@@ -17,7 +17,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+        <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
         <artifactId>stormpath-spring-parent</artifactId>
         <version>2.0.1-okta-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
@@ -30,19 +30,19 @@
     <dependencies>
 
         <dependency>
-            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-api</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-spring-security-webmvc</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-webmvc-spring-boot-starter</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-spring-security-spring-boot-starter</artifactId>
         </dependency>
         <dependency>
@@ -50,12 +50,12 @@
             <artifactId>javax.servlet-api</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-httpclient</artifactId>
             <scope>runtime</scope>
         </dependency>
         <dependency>
-            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-spring</artifactId>
             <type>test-jar</type>
         </dependency>
