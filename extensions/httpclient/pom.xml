@@ -19,7 +19,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
+        <groupId>com.github.gonzbar.stormpath-sdk-java</groupId>
         <artifactId>stormpath-sdk-root</artifactId>
         <version>2.0.1-okta-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
@@ -36,7 +36,7 @@
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
-            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
+            <groupId>com.github.gonzbar.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-impl</artifactId>
         </dependency>
         <dependency>
@@ -54,7 +54,7 @@
             <artifactId>jcl-over-slf4j</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
+            <groupId>com.github.gonzbar.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-oauth</artifactId>
             <scope>test</scope>
         </dependency>
