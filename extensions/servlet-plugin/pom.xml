@@ -19,7 +19,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.gonzbar.stormpath-sdk-java</groupId>
+        <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
         <artifactId>stormpath-sdk-root</artifactId>
         <version>2.0.1-okta-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
@@ -34,11 +34,11 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.gonzbar.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-servlet</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.github.gonzbar.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-sdk-httpclient</artifactId>
             <scope>runtime</scope>
         </dependency>
