@@ -19,13 +19,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+        <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
         <artifactId>stormpath-sdk-tutorials-spring-boot</artifactId>
         <version>2.0.1-okta-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+    <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
     <artifactId>stormpath-sdk-tutorials-spring-boot-default-spring-security-ftw</artifactId>
     <version>2.0.1-okta-SNAPSHOT</version>
 
@@ -42,7 +42,7 @@
     <dependencies>
         <!-- Compile-time dependencies: -->
         <dependency>
-            <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+            <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
             <artifactId>stormpath-default-spring-boot-starter</artifactId>
             <version>${project.version}</version>
         </dependency>

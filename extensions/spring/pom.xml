@@ -19,13 +19,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+        <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
         <artifactId>stormpath-sdk-root</artifactId>
         <version>2.0.1-okta-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <groupId>com.github.RodrigoQuesadaDev.stormpath-sdk-java</groupId>
+    <groupId>com.github.gotbizsense.stormpath-sdk-java</groupId>
     <artifactId>stormpath-spring-parent</artifactId>
     <name>Stormpath :: Spring</name>
     <description>Support for using Stormpath in Spring applications.</description>
